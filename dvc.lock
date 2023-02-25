@@ -11,11 +11,11 @@ stages:
         inputs.clou_cover: eo:cloud_cover<=10
         inputs.date_range: 2022-04-01/2022-09-01
         inputs.long_lat:
-        - 82.12493
-        - 16.53084
+        - 81.4959367
+        - 16.3781583
         inputs.radius: 1000
     outs:
     - path: RS/inputs
-      md5: 2fca6a1ea561466915d2311cf3e36255.dir
+      md5: 065cb8af5e23110eca798dca6be37933.dir
       size: 48060768
       nfiles: 1
