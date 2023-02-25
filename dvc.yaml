@@ -1,0 +1,12 @@
+stages:
+  data:
+    cmd: python data.py
+    deps:
+    - data.py
+    params:
+    - inputs.clou_cover
+    - inputs.date_range
+    - inputs.long_lat
+    - inputs.radius
+    outs:
+    - RS/inputs
