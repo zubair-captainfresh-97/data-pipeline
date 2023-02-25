@@ -13,9 +13,9 @@ stages:
         inputs.long_lat:
         - 82.12493
         - 16.53084
-        inputs.radius: 1500
+        inputs.radius: 1000
     outs:
     - path: RS/inputs
-      md5: 451546cb1da75378701efc56f5fd111d.dir
-      size: 108090768
+      md5: 2fca6a1ea561466915d2311cf3e36255.dir
+      size: 48060768
       nfiles: 1
